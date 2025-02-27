@@ -1,4 +1,4 @@
-#Distribudor de periodicos DDP 
+# Distribudor de periodicos DDP 
 
 ## Descripcion
 El dsitribuidor de periodcios DDP fue creado con la finalidad de ayudar en las tareas adminsitrativas de la oficina distribuidira de periodicos en Acapulco, (aun en desarrollo).
